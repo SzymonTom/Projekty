@@ -2,9 +2,8 @@ TODO:
 -
 -
 -
-Student: Politechnika Gdańska
-Kierunek: Automatyka, Cybernetyka i robotyka
+Alma Mater: Politechnika Gdańska(Gdańsk Tech University)
+Major: Automatyka, Cybernetyka i robotyka(automation, cybernetics and robotics)
 
-Projekty zawarte w tym rezpozytorium zostały przezemnie wykonane w ramach drugiego semestru studiów. Po wykonaniu projektów nie znajdujących się jeszcze w tym rezpozytorium zostaną one do niego dodane.
 
-kontakt: szytom@int.pl
+Contact: szytom@int.pl
